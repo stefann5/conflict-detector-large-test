@@ -1,1 +1,2 @@
 Initial content for file 7520 
+Modified in branch B - conflict file 7520 

@@ -1,1 +1,2 @@
 Initial content for file 8070 
+Modified only in branch B - file 8070 

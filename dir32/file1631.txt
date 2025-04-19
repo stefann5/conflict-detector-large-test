@@ -1,1 +1,2 @@
 Initial content for file 1631 
+Modified in branch B - conflict file 1631 

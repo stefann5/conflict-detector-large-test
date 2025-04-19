@@ -1,1 +1,2 @@
 Initial content for file 8326 
+Modified only in branch B - file 8326 

@@ -1,1 +1,2 @@
 Initial content for file 7074 
+Modified in branch B - conflict file 7074 

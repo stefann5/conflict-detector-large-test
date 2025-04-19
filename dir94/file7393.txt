@@ -1,1 +1,2 @@
 Initial content for file 7393 
+Modified in branch B - conflict file 7393 

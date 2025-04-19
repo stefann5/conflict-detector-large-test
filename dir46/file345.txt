@@ -1,1 +1,2 @@
 Initial content for file 345 
+Modified in branch B - conflict file 345 

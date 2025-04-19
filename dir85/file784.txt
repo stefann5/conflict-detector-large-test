@@ -1,1 +1,2 @@
 Initial content for file 784 
+Modified in branch B - conflict file 784 

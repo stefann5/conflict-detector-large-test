@@ -1,1 +1,2 @@
 Initial content for file 3536 
+Modified in branch B - conflict file 3536 

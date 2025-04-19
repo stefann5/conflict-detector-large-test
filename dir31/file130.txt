@@ -1,1 +1,2 @@
 Initial content for file 130 
+Modified in branch B - conflict file 130 

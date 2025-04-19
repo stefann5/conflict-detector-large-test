@@ -1,1 +1,2 @@
 Initial content for file 2621 
+Modified in branch B - conflict file 2621 

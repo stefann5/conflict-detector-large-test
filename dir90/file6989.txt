@@ -1,1 +1,2 @@
 Initial content for file 6989 
+Modified in branch B - conflict file 6989 

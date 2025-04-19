@@ -1,1 +1,2 @@
 Initial content for file 7310 
+Modified in branch B - conflict file 7310 

@@ -1,1 +1,2 @@
 Initial content for file 313 
+Modified in branch B - conflict file 313 

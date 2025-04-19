@@ -1,1 +1,2 @@
 Initial content for file 378 
+Modified in branch B - conflict file 378 

@@ -1,1 +1,2 @@
 Initial content for file 978 
+Modified in branch B - conflict file 978 

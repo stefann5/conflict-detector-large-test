@@ -1,1 +1,2 @@
 Initial content for file 4027 
+Modified in branch B - conflict file 4027 

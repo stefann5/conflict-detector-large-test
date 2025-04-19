@@ -1,1 +1,2 @@
 Initial content for file 1251 
+Modified in branch B - conflict file 1251 

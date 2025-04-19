@@ -1,1 +1,2 @@
 Initial content for file 2145 
+Modified in branch B - conflict file 2145 

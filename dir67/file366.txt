@@ -1,1 +1,2 @@
 Initial content for file 366 
+Modified in branch B - conflict file 366 

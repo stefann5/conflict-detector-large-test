@@ -1,1 +1,2 @@
 Initial content for file 497 
+Modified in branch B - conflict file 497 

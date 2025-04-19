@@ -1,1 +1,2 @@
 Initial content for file 938 
+Modified in branch B - conflict file 938 

@@ -1,1 +1,2 @@
 Initial content for file 5652 
+Modified in branch B - conflict file 5652 

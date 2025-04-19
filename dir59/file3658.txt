@@ -1,1 +1,2 @@
 Initial content for file 3658 
+Modified in branch B - conflict file 3658 

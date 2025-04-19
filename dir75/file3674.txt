@@ -1,1 +1,2 @@
 Initial content for file 3674 
+Modified in branch B - conflict file 3674 

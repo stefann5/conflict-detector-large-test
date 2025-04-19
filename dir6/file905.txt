@@ -1,1 +1,2 @@
 Initial content for file 905 
+Modified in branch B - conflict file 905 

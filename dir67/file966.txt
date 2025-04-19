@@ -1,1 +1,2 @@
 Initial content for file 966 
+Modified in branch B - conflict file 966 

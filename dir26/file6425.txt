@@ -1,1 +1,2 @@
 Initial content for file 6425 
+Modified in branch B - conflict file 6425 

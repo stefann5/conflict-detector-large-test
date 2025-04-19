@@ -1,1 +1,2 @@
 Initial content for file 5616 
+Modified in branch B - conflict file 5616 

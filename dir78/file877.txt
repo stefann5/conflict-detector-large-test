@@ -1,1 +1,2 @@
 Initial content for file 877 
+Modified in branch B - conflict file 877 

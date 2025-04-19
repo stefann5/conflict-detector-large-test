@@ -1,1 +1,2 @@
 Initial content for file 4627 
+Modified in branch B - conflict file 4627 

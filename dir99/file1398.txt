@@ -1,1 +1,2 @@
 Initial content for file 1398 
+Modified in branch B - conflict file 1398 

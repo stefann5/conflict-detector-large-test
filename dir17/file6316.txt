@@ -1,1 +1,2 @@
 Initial content for file 6316 
+Modified in branch B - conflict file 6316 

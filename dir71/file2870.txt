@@ -1,1 +1,2 @@
 Initial content for file 2870 
+Modified in branch B - conflict file 2870 

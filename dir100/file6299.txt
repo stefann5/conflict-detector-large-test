@@ -1,1 +1,2 @@
 Initial content for file 6299 
+Modified in branch B - conflict file 6299 

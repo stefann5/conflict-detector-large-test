@@ -1,1 +1,2 @@
 Initial content for file 8723 
+Modified only in branch B - file 8723 

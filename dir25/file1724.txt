@@ -1,1 +1,2 @@
 Initial content for file 1724 
+Modified in branch B - conflict file 1724 

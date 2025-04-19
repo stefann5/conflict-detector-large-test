@@ -1,1 +1,2 @@
 Initial content for file 7772 
+Modified in branch B - conflict file 7772 

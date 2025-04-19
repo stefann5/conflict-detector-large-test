@@ -1,1 +1,2 @@
 Initial content for file 5748 
+Modified in branch B - conflict file 5748 

@@ -1,1 +1,2 @@
 Initial content for file 6712 
+Modified in branch B - conflict file 6712 

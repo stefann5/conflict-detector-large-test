@@ -1,1 +1,2 @@
 Initial content for file 3482 
+Modified in branch B - conflict file 3482 

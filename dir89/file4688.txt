@@ -1,1 +1,2 @@
 Initial content for file 4688 
+Modified in branch B - conflict file 4688 

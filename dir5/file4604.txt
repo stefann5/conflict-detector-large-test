@@ -1,1 +1,2 @@
 Initial content for file 4604 
+Modified in branch B - conflict file 4604 

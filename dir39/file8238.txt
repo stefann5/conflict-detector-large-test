@@ -1,1 +1,2 @@
 Initial content for file 8238 
+Modified only in branch B - file 8238 

@@ -1,1 +1,2 @@
 Initial content for file 8843 
+Modified only in branch B - file 8843 

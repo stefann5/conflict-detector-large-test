@@ -1,1 +1,2 @@
 Initial content for file 448 
+Modified in branch B - conflict file 448 

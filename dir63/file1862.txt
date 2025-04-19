@@ -1,1 +1,2 @@
 Initial content for file 1862 
+Modified in branch B - conflict file 1862 

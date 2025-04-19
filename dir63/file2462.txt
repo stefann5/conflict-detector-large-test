@@ -1,1 +1,2 @@
 Initial content for file 2462 
+Modified in branch B - conflict file 2462 

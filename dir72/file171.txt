@@ -1,1 +1,2 @@
 Initial content for file 171 
+Modified in branch B - conflict file 171 

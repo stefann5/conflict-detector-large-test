@@ -1,1 +1,2 @@
 Initial content for file 6441 
+Modified in branch B - conflict file 6441 

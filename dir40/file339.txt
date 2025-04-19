@@ -1,1 +1,2 @@
 Initial content for file 339 
+Modified in branch B - conflict file 339 

@@ -1,1 +1,2 @@
 Initial content for file 7898 
+Modified in branch B - conflict file 7898 

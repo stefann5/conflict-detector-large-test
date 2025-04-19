@@ -1,1 +1,2 @@
 Initial content for file 6435 
+Modified in branch B - conflict file 6435 

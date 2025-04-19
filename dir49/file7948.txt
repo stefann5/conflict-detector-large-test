@@ -1,1 +1,2 @@
 Initial content for file 7948 
+Modified in branch B - conflict file 7948 

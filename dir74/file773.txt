@@ -1,1 +1,2 @@
 Initial content for file 773 
+Modified in branch B - conflict file 773 

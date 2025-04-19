@@ -1,1 +1,2 @@
 Initial content for file 2690 
+Modified in branch B - conflict file 2690 

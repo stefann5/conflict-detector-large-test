@@ -1,1 +1,2 @@
 Initial content for file 1185 
+Modified in branch B - conflict file 1185 

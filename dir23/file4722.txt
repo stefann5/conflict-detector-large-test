@@ -1,1 +1,2 @@
 Initial content for file 4722 
+Modified in branch B - conflict file 4722 

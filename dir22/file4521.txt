@@ -1,1 +1,2 @@
 Initial content for file 4521 
+Modified in branch B - conflict file 4521 

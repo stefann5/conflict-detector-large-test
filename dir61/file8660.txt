@@ -1,1 +1,2 @@
 Initial content for file 8660 
+Modified only in branch B - file 8660 

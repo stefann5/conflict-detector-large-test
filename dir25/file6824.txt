@@ -1,1 +1,2 @@
 Initial content for file 6824 
+Modified in branch B - conflict file 6824 

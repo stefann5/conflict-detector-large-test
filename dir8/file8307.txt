@@ -1,1 +1,2 @@
 Initial content for file 8307 
+Modified only in branch B - file 8307 

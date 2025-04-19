@@ -1,1 +1,2 @@
 Initial content for file 5064 
+Modified in branch B - conflict file 5064 
