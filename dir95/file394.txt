@@ -1,1 +1,2 @@
 Initial content for file 394 
+Modified in branch A - conflict file 394 

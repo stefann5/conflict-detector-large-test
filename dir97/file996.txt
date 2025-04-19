@@ -1,1 +1,2 @@
 Initial content for file 996 
+Modified in branch A - conflict file 996 

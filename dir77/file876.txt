@@ -1,1 +1,2 @@
 Initial content for file 876 
+Modified in branch A - conflict file 876 

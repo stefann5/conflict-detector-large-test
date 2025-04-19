@@ -1,1 +1,2 @@
 Initial content for file 830 
+Modified in branch A - conflict file 830 

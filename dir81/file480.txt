@@ -1,1 +1,2 @@
 Initial content for file 480 
+Modified in branch A - conflict file 480 

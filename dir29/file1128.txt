@@ -1,1 +1,2 @@
 Initial content for file 1128 
+Modified in branch A - conflict file 1128 

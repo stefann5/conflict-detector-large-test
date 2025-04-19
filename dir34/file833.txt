@@ -1,1 +1,2 @@
 Initial content for file 833 
+Modified in branch A - conflict file 833 

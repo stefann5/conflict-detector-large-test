@@ -1,1 +1,2 @@
 Initial content for file 808 
+Modified in branch A - conflict file 808 

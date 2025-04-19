@@ -1,1 +1,2 @@
 Initial content for file 8472 
+Modified only in branch A - file 8472 

@@ -1,1 +1,2 @@
 Initial content for file 8470 
+Modified only in branch A - file 8470 

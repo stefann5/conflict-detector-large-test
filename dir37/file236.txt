@@ -1,1 +1,2 @@
 Initial content for file 236 
+Modified in branch A - conflict file 236 
